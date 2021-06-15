@@ -1,2 +1,2 @@
-![kuvankaappaus](src/makuva.png "kuvankaappaus")
-git remote -v -komennolla tarkastetaan repositorion tiedonsiirtoprotokolla
+ **git remote -v** -komennolla tarkastetaan repositorion tiedonsiirtoprotokolla:
+![kuvankaappaus](src/kuvankaappaus.png "kuvankaappaus")
